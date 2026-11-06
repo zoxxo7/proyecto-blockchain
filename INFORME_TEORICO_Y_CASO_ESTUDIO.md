@@ -1,8 +1,19 @@
+# UNIVERSIDAD AUTÓNOMA DEL BENI "JOSÉ BALLIVIÁN"
+## FACULTAD DE INGENIERÍA Y TECNOLOGÍA
+### CARRERA DE INGENIERÍA DE SISTEMAS (LICENCIATURA - TRINIDAD)
+
+---
+
 # TRABAJO PRÁCTICO: TECNOLOGÍA BLOCKCHAIN
-**Asignatura:** Tecnologías Emergentes  
-**Docente:** Ing. Hermes Rodriguez Rivero  
-**Modalidad:** Grupal  
-**Universidad Autónoma del Beni José Ballivián (UAB)** — 2026  
+
+* **Asignatura:** Tecnologías Emergentes
+* **Código de Asignatura:** CIS-ACO-o15310
+* **Docente:** Ing. Hermes Rodriguez Rivero
+* **Modalidad:** Grupal (2 Estudiantes)
+* **Estudiantes:**
+  1. **Zafnat Josue Mamani Limachi**
+  2. **Jose Carlos Caity Roca**
+* **Lugar y Fecha:** Trinidad – Beni – Bolivia | 2/2026
 
 ---
 

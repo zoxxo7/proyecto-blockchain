@@ -3,9 +3,10 @@
 ║          TRABAJO PRÁCTICO — TECNOLOGÍAS EMERGENTES                          ║
 ║          Mini Blockchain en Python — Implementación Completa                ║
 ║                                                                              ║
-║  Autores  : [Poner nombres del grupo aquí]                                  ║
-║  Materia  : Tecnologías Emergentes                                           ║
-║  Fecha    : 2026                                                             ║
+║  Autores  : Zafnat Josue Mamani Limachi & Jose Carlos Caity Roca            ║
+║  Carrera  : Ingeniería de Sistemas (UAB - Trinidad, Beni)                   ║
+║  Materia  : Tecnologías Emergentes (Docente: Ing. Hermes Rodriguez)          ║
+║  Gestión  : 2/2026                                                           ║
 ║                                                                              ║
 ║  DESCRIPCIÓN:                                                                ║
 ║  Este script demuestra el funcionamiento completo de una blockchain          ║

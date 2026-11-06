@@ -1,5 +1,7 @@
 # 🎤 GUION DE EXPOSICIÓN — TECNOLOGÍA BLOCKCHAIN
-### Cómo defender tu proyecto en 10 minutos y sacarte 100 con el Ing. Hermes Rodriguez
+**Estudiantes:** Zafnat Josue Mamani Limachi & Jose Carlos Caity Roca  
+**Docente:** Ing. Hermes Rodriguez Rivero | **Gestión:** 2/2026 (UAB - Trinidad)  
+**Tiempo estimado:** 10 minutos de presentación + 5 minutos de preguntas  
 
 ---
 

@@ -1,16 +1,24 @@
 # 🔗 Mini Blockchain en Python
-### Trabajo Práctico — Tecnologías Emergentes | Universidad del Beni — 2026
+### Trabajo Práctico: Tecnología Blockchain
+**Universidad Autónoma del Beni "José Ballivián"**  
+**Facultad de Ingeniería y Tecnología**  
+**Carrera de Ingeniería de Sistemas (Licenciatura - Trinidad)**  
 
 ---
 
-## 👥 Integrantes del Grupo
+## 📋 Datos Académicos
+* **Asignatura:** Tecnologías Emergentes
+* **Código de Asignatura:** CIS-ACO-o15310
+* **Docente:** Ing. Hermes Rodriguez Rivero
+* **Semestre:** 2/2026
+* **Lugar:** Trinidad – Beni – Bolivia
 
-| Nombre completo | Rol en el TP |
+## 👥 Integrantes del Grupo (2 Estudiantes)
+
+| Estudiante | Rol Principal |
 |---|---|
-| [Nombre 1] | Programación (Parte II) |
-| [Nombre 2] | Marco Teórico (Parte I) |
-| [Nombre 3] | Caso de Estudio (Parte III) |
-| [Nombre 4] | Presentación y diapositivas (Parte IV) |
+| **Zafnat Josue Mamani Limachi** | Implementación de Código (Python, GUI Tkinter y Pruebas Unitarias) |
+| **Jose Carlos Caity Roca** | Marco Teórico, Caso de Estudio y Diapositivas |
 
 ---
 

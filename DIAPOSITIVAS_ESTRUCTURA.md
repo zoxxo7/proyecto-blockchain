@@ -6,11 +6,16 @@
 ---
 
 ### Diapositiva 1: Portada
+* **Institución:** Universidad Autónoma del Beni "José Ballivián"
+* **Facultad:** Facultad de Ingeniería y Tecnología
+* **Carrera:** Ingeniería de Sistemas (Licenciatura - Trinidad)
 * **Título:** TECNOLOGÍA BLOCKCHAIN: Fundamentos, Demostración Práctica y Casos de Uso
-* **Subtítulo:** Asignatura: Tecnologías Emergentes
+* **Asignatura:** Tecnologías Emergentes (CIS-ACO-o15310)
 * **Docente:** Ing. Hermes Rodriguez Rivero
-* **Integrantes del Grupo:** [Nombres completos]
-* **Institución:** Universidad Autónoma del Beni José Ballivián (UAB) — 2026
+* **Estudiantes:**
+  * Zafnat Josue Mamani Limachi
+  * Jose Carlos Caity Roca
+* **Lugar y Fecha:** Trinidad – Beni – Bolivia | 2/2026
 
 ---
 
